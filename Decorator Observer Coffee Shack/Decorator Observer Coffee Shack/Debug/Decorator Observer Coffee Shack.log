@@ -1,0 +1,3 @@
+﻿  coffeeshack.cpp
+c:\users\zenrion\source\repos\class_projects\cs3\decorator observer coffee shack\decorator observer coffee shack\coffeeshack.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Decorator Observer Coffee Shack.vcxproj -> C:\Users\Zenrion\Source\Repos\Class_Projects\CS3\Decorator Observer Coffee Shack\Debug\Decorator Observer Coffee Shack.exe
