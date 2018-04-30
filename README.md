@@ -1,2 +1,2 @@
 # CS3
-All class projects for course CS3.
+All class projects for CS3 course.
